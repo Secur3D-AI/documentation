@@ -6,7 +6,7 @@ In this guide you will learn how to setup an account, login to the account, uplo
 
 The first step of using the Secur3D service is to create an account on our website. You can find the account creation page [here](https://www.app.secur3d.ai/auth/signup). Please go through the steps and then verify the account with the MFA code in your email. Once that is done you will now have access to all the services.
 
-## Creating a organization
+## Creating an organization
 
 Now that you have an account you will be able to create an organization to access the endpoints from. To create an organization you can go to our website or follow [this](https://www.staging.secur3d.ai/dashboard/organization/create) link. Then just follow the prompts to create your organization. Once it has been created you can select it from the dropdown in the top right of the dashboard by clicking your profile picture.
 
